@@ -26,6 +26,6 @@ Ten projekt przedstawia analizę danych dotyczących zasobów ludzkich, w tym wy
 ![PowerBIHRDashboard](./HR3.png)
 
 
-Link do pobrania: [Pobierz .pbix](![PowerBIHRDashboard](./Human Resources.pbix)
+## Pobierz raport Power BI
 
-
+[Pobierz plik .pbix](./Human_Resources.pbix)
