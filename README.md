@@ -15,17 +15,17 @@ Ten projekt przedstawia analizę danych dotyczących zasobów ludzkich, w tym wy
 
 ### 1. Przegląd wynagrodzeń i pracowników
 
-![PowerBIHRDashboard](HR1)
+![PowerBIHRDashboard](./HR1.png)
 
 ### 2. Średnie wynagrodzenia i dni chorobowe
 
-![PowerBIHRDashboard](HR2)
+![PowerBIHRDashboard](./HR2.png)
 
 ### 3. Analiza według jednostek biznesowych i regionów
 
-![PowerBIHRDashboard](HR3)
+![PowerBIHRDashboard](./HR3.png)
 
 
-Link do pobrania: [Pobierz .pbix](./Human Resources)
+Link do pobrania: [Pobierz .pbix](./Human Resources.pbix)
 
 
