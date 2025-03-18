@@ -15,26 +15,16 @@ Ten projekt przedstawia analizę danych dotyczących zasobów ludzkich, w tym wy
 
 ### 1. Przegląd wynagrodzeń i pracowników
 
+![PowerBIHRDashboard](HR1)
 
 ### 2. Średnie wynagrodzenia i dni chorobowe
-![Dashboard - Średnie wynagrodzenia](./path-to-your-image-2.png)
+
+![PowerBIHRDashboard](HR2)
 
 ### 3. Analiza według jednostek biznesowych i regionów
-![Dashboard - Jednostki biznesowe i regiony](./path-to-your-image-3.png)
 
-## Wymagania
+![PowerBIHRDashboard](HR3)
 
-- **Power BI Desktop** do otwarcia pliku raportu
-- **Źródło danych**: wewnętrzne dane HR (przykładowe)
 
-## Jak używać?
 
-1. Pobierz repozytorium
-2. Otwórz plik Power BI w Power BI Desktop
-3. Przeglądaj dashboardy i analizuj dane według własnych filtrów
 
-## Autor
-
-📌 Stworzone przez [Twoje Imię/Nazwa użytkownika]
-
-Jeśli masz pytania lub sugestie, skontaktuj się ze mną!
